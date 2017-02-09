@@ -1,0 +1,36 @@
+D:\MavProject\VideoPlayer\VideoPlayer\bin\Debug\VideoPlayer.exe.config
+D:\MavProject\VideoPlayer\VideoPlayer\bin\Debug\VideoPlayer.exe
+D:\MavProject\VideoPlayer\VideoPlayer\bin\Debug\VideoPlayer.pdb
+D:\MavProject\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer.csprojResolveAssemblyReference.cache
+D:\MavProject\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer.Properties.Resources.resources
+D:\MavProject\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer.csproj.GenerateResource.Cache
+D:\MavProject\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer.exe
+D:\MavProject\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer.pdb
+D:\MavProject\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer.VideoPlayer.resources
+D:\MavProject\VideoPlayer\VideoPlayer\obj\Debug\Interop.WMPLib.dll
+D:\MavProject\VideoPlayer\VideoPlayer\obj\Debug\AxInterop.WMPLib.dll
+D:\MavProject\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer.csproj.ResolveComReference.cache
+D:\MavProject\VideoPlayer\VideoPlayer\bin\Debug\Interop.WMPLib.dll
+D:\MavProject\VideoPlayer\VideoPlayer\bin\Debug\AxInterop.WMPLib.dll
+D:\MavProject\VideoPlayer\VideoPlayer\bin\Debug\VideoPlayer.exe.manifest
+D:\MavProject\VideoPlayer\VideoPlayer\bin\Debug\VideoPlayer.application
+D:\MavProject\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer.exe.manifest
+D:\MavProject\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer.application
+D:\MavProject\VideoPlayer - WMP\VideoPlayer\bin\Debug\VideoPlayer.exe.config
+D:\MavProject\VideoPlayer - WMP\VideoPlayer\obj\Debug\Interop.WMPLib.dll
+D:\MavProject\VideoPlayer - WMP\VideoPlayer\obj\Debug\AxInterop.WMPLib.dll
+D:\MavProject\VideoPlayer - WMP\VideoPlayer\obj\Debug\VideoPlayer.csproj.ResolveComReference.cache
+D:\MavProject\VideoPlayer - WMP\VideoPlayer\obj\Debug\VideoPlayer.exe
+D:\MavProject\VideoPlayer - WMP\VideoPlayer\obj\Debug\VideoPlayer.pdb
+D:\MavProject\VideoPlayer - WMP\VideoPlayer\bin\Debug\VideoPlayer.exe.manifest
+D:\MavProject\VideoPlayer - WMP\VideoPlayer\bin\Debug\VideoPlayer.application
+D:\MavProject\VideoPlayer - WMP\VideoPlayer\bin\Debug\VideoPlayer.exe
+D:\MavProject\VideoPlayer - WMP\VideoPlayer\bin\Debug\VideoPlayer.pdb
+D:\MavProject\VideoPlayer - WMP\VideoPlayer\bin\Debug\Interop.WMPLib.dll
+D:\MavProject\VideoPlayer - WMP\VideoPlayer\bin\Debug\AxInterop.WMPLib.dll
+D:\MavProject\VideoPlayer - WMP\VideoPlayer\obj\Debug\VideoPlayer.csprojResolveAssemblyReference.cache
+D:\MavProject\VideoPlayer - WMP\VideoPlayer\obj\Debug\VideoPlayer.VideoPlayer.resources
+D:\MavProject\VideoPlayer - WMP\VideoPlayer\obj\Debug\VideoPlayer.Properties.Resources.resources
+D:\MavProject\VideoPlayer - WMP\VideoPlayer\obj\Debug\VideoPlayer.csproj.GenerateResource.Cache
+D:\MavProject\VideoPlayer - WMP\VideoPlayer\obj\Debug\VideoPlayer.exe.manifest
+D:\MavProject\VideoPlayer - WMP\VideoPlayer\obj\Debug\VideoPlayer.application
